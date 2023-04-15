@@ -13,7 +13,6 @@ Run:
 
 ./sand
 
-Left Control adds 1 sand pixel
-Right Control removes 1 sand pixel
+Left Control adds 1 sand pixel & Right Control removes 1 sand pixel
 
 ![Screenshot_2023-04-15_10-41-24](https://user-images.githubusercontent.com/70346380/232235040-38284d87-5e51-4336-8585-7f415e3a8879.png)
